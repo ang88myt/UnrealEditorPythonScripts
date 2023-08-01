@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c03f4a04-616f-48a7-88d7-905f4b77f462" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Animation/SetAllAnimNotifyProperty.py" beforeDir="false" afterPath="$PROJECT_DIR$/Animation/SetAllAnimNotifyProperty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ArchiveUnusedAssets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ArchiveUnusedAssets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DeleteUnusedAssets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DeleteUnusedAssets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OrganizeAssetsPerType.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OrganizeAssetsPerType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PrefixAllAssets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PrefixAllAssets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ReportUnusedAssets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ReportUnusedAssets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnifyAllAssetsDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnifyAllAssetsDuplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UnifyAssetDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UnifyAssetDuplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/AccessAndModifyComponentsNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/Components/AccessAndModifyComponentsNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/AccessAndModifyComponentsOld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Components/AccessAndModifyComponentsOld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level/CreateSingleLevelStreaming.py" beforeDir="false" afterPath="$PROJECT_DIR$/Level/CreateSingleLevelStreaming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/AssignMaterialToAllSimilarNamedMeshes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/AssignMaterialToAllSimilarNamedMeshes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/CreateInstancesOfSelectedMaterial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/CreateInstancesOfSelectedMaterial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Materials/ReportTwoSidedMaterials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Materials/ReportTwoSidedMaterials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sequencer/CreateAndEditCineCameraActor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequencer/CreateAndEditCineCameraActor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sequencer/CreateCineCameraForEverySkeletalMesh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequencer/CreateCineCameraForEverySkeletalMesh.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TNNqf9xfUmr3RvDQTjM0YqeN1w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Git/UnrealEditorPythonScripts"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c03f4a04-616f-48a7-88d7-905f4b77f462" name="Changes" comment="" />
+      <created>1690879770886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690879770886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
