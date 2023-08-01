@@ -13,7 +13,7 @@ In order to be able to sue those helper scripts, you must be sure this plugins a
 ## Aimation ##
 
 - **[CleanNotifiesFromAnimations.py](https://github.com/ang88myt/UnrealEditorPythonScripts/blob/ed7d53c7cb5f4970ec1901b75b848f5ec72656e0/Animation/CleanNotifiesFromAnimations.py)** Run on a selected single or multiple animation file(s) in order to clean up the selected file(s) from any animation notifies.
-- **[SetAllAnimNotifyProperty.py]** Run on a selected single or multiple animation file(s) in order set some values for all the animation notifies exists in the selected animations (notify name, notify color, notify trigger settings,...etc.). NOTE that the later part of the scrip (color fetch & change) won't work with the custom notifies (the ones that call a function/Event), as those notifies are meant to have fixed color by design.
+- **[SetAllAnimNotifyProperty.py](https://github.com/ang88myt/UnrealEditorPythonScripts/blob/f57dcdb9bf05bd5eb549797aac3502558bfb29a4/Animation/SetAllAnimNotifyProperty.py)** Run on a selected single or multiple animation file(s) in order set some values for all the animation notifies exists in the selected animations (notify name, notify color, notify trigger settings,...etc.). NOTE that the later part of the scrip (color fetch & change) won't work with the custom notifies (the ones that call a function/Event), as those notifies are meant to have fixed color by design.
 
 ## Assets ##
 
