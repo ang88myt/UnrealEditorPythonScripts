@@ -39,7 +39,6 @@ with unreal.ScopedSlowTask(allAssetsCount, selectedAssetPath) as slowTask:
             break
         slowTask.enter_progress_frame(1, asset)
 
-
 if (len(assetsMatching) != 0):
     editorAssetLib.consolidate_assets(selectedAsset, assetsMatching)
     print (">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
