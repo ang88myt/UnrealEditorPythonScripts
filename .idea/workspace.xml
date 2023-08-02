@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c03f4a04-616f-48a7-88d7-905f4b77f462" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Rename_assets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/delete_ null_static_mesh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreateAsset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Level/CreateSingleLevelStreaming.py" beforeDir="false" afterPath="$PROJECT_DIR$/Level/CreateSingleLevelStreaming.py" afterDir="false" />
-    </list>
+    <list default="true" id="c03f4a04-616f-48a7-88d7-905f4b77f462" name="Changes" comment="add scripts, CreateAsset.py, delete_ null_static_mesh.py, Rename_assets.py,update CreateSingleLevelStreaming.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Git/UnrealEditorPythonScripts/Assets",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1690879770886</updated>
     </task>
+    <task id="LOCAL-00001" summary="add scripts, CreateAsset.py, delete_ null_static_mesh.py, Rename_assets.py,update CreateSingleLevelStreaming.py">
+      <created>1690967723814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690967723814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add scripts, CreateAsset.py, delete_ null_static_mesh.py, Rename_assets.py,update CreateSingleLevelStreaming.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add scripts, CreateAsset.py, delete_ null_static_mesh.py, Rename_assets.py,update CreateSingleLevelStreaming.py" />
   </component>
 </project>
